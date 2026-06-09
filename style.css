@@ -93,7 +93,7 @@ section {
     font-size:35px;
 }
 
-.cards{
+.cartas{
     display:flex;
     justify-content:center;
     gap:30px;
