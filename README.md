@@ -1,4 +1,4 @@
-Agro Inovate by Criativity (projeto escolar participante do Programa/Concurso Agrinho
+Agro Inovate by Criativity (projeto escolar participante do Programa/Concurso)
 Descrição:
 Com o intuito de auxílio no agro e testar meus saberes realizei a criação do site com IA, mas sei explicar e estou estudando ainda neste ramo
 A construção foi usando as linguagens HTML, CSS e JS, usando elementos como: "section", "div", "header" e "footer", o tema é o agro de maneira empreendedora e inovadora 
